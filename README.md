@@ -55,6 +55,8 @@ On macOS: use the desktop release, or build `zeron` from source and run `zeron d
 
 On Windows: extract the portable release ZIP and run `zeron.exe`. Keep `zeron-update.json` beside it for in-app updates. See the [development notes](docs/reference/windows-development.md) for source builds.
 
+Prefer to keep sync off other people's servers? The edge can run on your own machine with `docker compose`, no Cloudflare or WorkOS account needed — see [docs/SELFHOST.md](docs/SELFHOST.md).
+
 ## Sponsors
 
 Thank you to [The Context Company](https://www.thecontextcompany.com/) for sponsoring Zeron.
